@@ -1,0 +1,104 @@
+
+{
+  "schema_version": "1.0.0",
+  "service_groups": [
+    {
+      "group_id": "Department of Motor Traffic",
+      "name": "Department of Motor Traffic"
+    },
+    {
+      "group_id": "Department of Immigration and Emigration",
+      "name": "Department of Immigration and Emigration"
+    },
+    {
+      "group_id": "Divisional Secretariat and Grama Niladhari",
+      "name": "Divisional Secretariat and Grama Niladhari"
+    }
+  ],
+  "services": [
+    {
+      "service_id": "SVC-001",
+      "group_id": "Department of Motor Traffic",
+      "name": "Driving Licence Renewal",
+      "description": "Assistance with renewing a driving licence.",
+      "required_documents": null,
+      "eligibility": null,
+      "procedure": null,
+      "fees": null,
+      "sources": [],
+      "verification_status": "pending"
+    },
+    {
+      "service_id": "SVC-002",
+      "group_id": "Department of Motor Traffic",
+      "name": "Duplicate Driving Licence",
+      "description": "Assistance with requesting a duplicate driving licence.",
+      "required_documents": null,
+      "eligibility": null,
+      "procedure": null,
+      "fees": null,
+      "sources": [],
+      "verification_status": "pending"
+    },
+    {
+      "service_id": "SVC-003",
+      "group_id": "Department of Immigration and Emigration",
+      "name": "Passport Application",
+      "description": "Assistance with applying for a passport.",
+      "required_documents": null,
+      "eligibility": null,
+      "procedure": null,
+      "fees": null,
+      "sources": [],
+      "verification_status": "pending"
+    },
+    {
+      "service_id": "SVC-004",
+      "group_id": "Department of Immigration and Emigration",
+      "name": "Passport Renewal",
+      "description": "Assistance with renewing a passport.",
+      "required_documents": null,
+      "eligibility": null,
+      "procedure": null,
+      "fees": null,
+      "sources": [],
+      "verification_status": "pending"
+    },
+    {
+      "service_id": "SVC-005",
+      "group_id": "Department of Immigration and Emigration",
+      "name": "Lost Passport Request Letter",
+      "description": "Assistance with preparing a request letter related to a lost passport.",
+      "required_documents": null,
+      "eligibility": null,
+      "procedure": null,
+      "fees": null,
+      "sources": [],
+      "verification_status": "pending"
+    },
+    {
+      "service_id": "SVC-006",
+      "group_id": "Divisional Secretariat and Grama Niladhari",
+      "name": "Residence Certificate Assistance",
+      "description": "Guidance related to obtaining a residence certificate.",
+      "required_documents": null,
+      "eligibility": null,
+      "procedure": null,
+      "fees": null,
+      "sources": [],
+      "verification_status": "pending"
+    },
+    {
+      "service_id": "SVC-007",
+      "group_id": "Divisional Secretariat and Grama Niladhari",
+      "name": "General Certification Assistance",
+      "description": "Guidance related to general certification services.",
+      "required_documents": null,
+      "eligibility": null,
+      "procedure": null,
+      "fees": null,
+      "sources": [],
+      "verification_status": "pending"
+    }
+  ]
+}
